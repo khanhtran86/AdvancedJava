@@ -1,0 +1,17 @@
+<Person>
+    <firstName>Khanh</firstName>
+    <lastName>Trần</lastName>
+    <phoneNumbers>
+        <phoneNumbers>0924448888</phoneNumbers>
+    </phoneNumbers>
+    <address>
+        <address>
+            <streetName>Thái Hà</streetName>
+            <city>Hà Nội</city>
+        </address>
+        <address>
+            <streetName>Duy Tân</streetName>
+            <city>Hà Nội</city>
+        </address>
+    </address>
+</Person>

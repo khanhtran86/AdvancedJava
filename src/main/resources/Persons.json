@@ -1,0 +1,4 @@
+[
+  {"firstName":"Khanh","lastName":"Trần","phoneNumbers":["0924448888"],"address":[{"streetName":"Thái Hà","city":"Hà Nội"},{"streetName":"Duy Tân","city":"Hà Nội"}]},
+  {"firstName":"Phương","lastName":"Trần","phoneNumbers":["0936668888"],"address":[{"streetName":"Phố Huế","city":"Hà Nội"}]}
+]
